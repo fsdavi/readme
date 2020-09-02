@@ -5,7 +5,7 @@ I'm a 21 years old studant of Information Systems at the Federal University of S
 - 💼 I work as a freelancer in web development and creating websites with WordPress.
 - 🌱 I’m currently learning Dart and Flutter. 
 - 🤔 I’m looking for help with Flutter. 
-- 💻 Knowledge in JavaScript, Python, HTML, CSS, Photoshop, Illustrator, WordPress.
+- 💻 Knowledge in JavaScript, HTML, CSS, Dart, Photoshop, Illustrator, WordPress.
 
 </p><p align="center">
 <a href="https://linkedin.com/in/davisfreire" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="davisfreire" height="30" width="30" /></a>
