@@ -3,8 +3,8 @@
 I'm a 21 years old studant of Information Systems at the Federal University of Sergipe, and work as freelancer building some sites and web systems. My principal programming laguange is JavaScript and do somethings with Python and Dart too, but JavaScript is my main. 
 
 - 💼 I work as a freelancer in web development and creating websites with WordPress.
-- 🌱 I’m currently learning Dart and Flutter. 
-- 🤔 I’m looking for help with Flutter. 
+- 🌱 I’m currently learning NodeJS. 
+- 🤔 I’m looking for help with NodeJS. 
 - 💻 Knowledge in JavaScript, HTML, CSS, Dart, Photoshop, Illustrator, WordPress.
 
 </p><p align="center">
