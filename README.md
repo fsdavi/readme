@@ -10,5 +10,6 @@ I'm a 21 years old studant of Information Systems at the Federal University of S
 </p><p align="center">
 <a href="https://linkedin.com/in/davisfreire" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="davisfreire" height="30" width="30" /></a>
 <a href="https://instagram.com/davi.zip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="davi.zip" height="30" width="30" /></a>
+  <a href="https://medium.com/@fsdavi.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="davi.zip" height="30" width="30" /></a>
 
 
