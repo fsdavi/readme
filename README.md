@@ -10,8 +10,8 @@ I'm a 21 years old studant of Information Systems at the Federal University of S
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsdavi&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=fsdavi&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsdavi&hide=html&layout=compact&theme=dracula" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=fsdavi&theme=dracula"/></td>
     </tr>   
 </table>
 </center>
