@@ -7,9 +7,9 @@ I'm a 21 years old studant of Information Systems at the Federal University of S
 <a href="https://instagram.com/davi.zip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="davi.zip" height="30" width="30" /></a>
  <a href="https://medium.com/@fsdavi.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="davi.zip" height="30" width="30" /></a>
 
-- 🌱 I’m currently learning NodeJS. 
+- 🌱 I’m currently learning ReactJS, NodeJS and React Native. 
 - 🤔 I’m looking for help with NodeJS. 
-- 💻 Knowledge in JavaScript, HTML, CSS, Dart, SQL, Photoshop, Illustrator, WordPress.
+- 💻 Knowledge in JavaScript, HTML, CSS, Dart, SQL.
 
 <p align="center">
         <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsdavi&hide=html&layout=compact&theme=dracula" />
