@@ -4,21 +4,22 @@ I'm a 22 years old studant of Information Systems at the Federal University of S
 
 ## 🛠  Currently working with:
 
-<img src="https://media.tenor.com/images/703bc04d715570ad5c68723ba6a58664/tenor.gif" height="180" align="right"/>   
+<img src="https://media.tenor.com/images/703bc04d715570ad5c68723ba6a58664/tenor.gif" height="155" align="right"/>   
 <div>
 <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=007ACC" alt="Typescript logo" title="typescript" height="25" />
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
 <img src="https://img.shields.io/badge/styled%20components-282C34?logo=styled-components&logoColor=CC6699" alt="Styled Components" title="Styled Components" height="25" />
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 </div>
 <div>
 <img src="https://img.shields.io/badge/AzureDevops-282C34?logo=azuredevops&logoColor=007ACC" alt="Azure logo" title="Azure" height="25" />
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor" alt="Python logo" title="Python" height="25" />
 <img src="https://img.shields.io/badge/docker-282C34?logo=docker&logoColor=61DAFB" alt="docker logo" title="git" height="25" />
 </div>
 </div>
+<br>
 <br>
 
 ## 🧠  Currently studying:
