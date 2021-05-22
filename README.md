@@ -21,6 +21,7 @@ I'm a 22 years old studant of Information Systems at the Federal University of S
 </div>
 <br>
 <br>
+<br>
 
 ## 🧠  Currently studying:
 <div>
