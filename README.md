@@ -4,7 +4,7 @@ I'm a 22 years old studant of Information Systems at the Federal University of S
 
 ## 🛠  Currently working with:
 
-<img src="https://media.tenor.com/images/703bc04d715570ad5c68723ba6a58664/tenor.gif" height="155" align="right"/>   
+<img src="https://media.tenor.com/images/703bc04d715570ad5c68723ba6a58664/tenor.gif" height="145" align="right"/>   
 <div>
 <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=007ACC" alt="Typescript logo" title="typescript" height="25" />
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
