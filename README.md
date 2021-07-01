@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=8904F7&size=24&multiline=true&width=700&height=75&lines=Hi++there%F0%9F%91%8B%2C+I'm+Davi+Freire+front-end+developer+;And+this+is+my+github.)](https://git.io/typing-svg)
 
-I'm a 22 years old studant of Information Systems at the Federal University of Sergipe, and work with front-end since 2018 building some sites and web systems. My principal programming laguange is JavaScript and do somethings with Python too, but JavaScript is my main. 
+I'm a 22 years old studant of Information Systems at the Federal University of Sergipe, and work with front-end since 2018 building some sites and web systems. My principal programming laguange is JavaScript, so let know if I can help you in something about.
 
 ## 🛠  Currently working with:
 
