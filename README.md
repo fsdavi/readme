@@ -7,16 +7,18 @@ I'm a 22 years old studant of Information Systems at the Federal University of S
 <img src="https://media.tenor.com/images/703bc04d715570ad5c68723ba6a58664/tenor.gif" height="145" align="right"/>   
 <div>
 <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=007ACC" alt="Typescript logo" title="typescript" height="25" />
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
-<img src="https://img.shields.io/badge/styled%20components-282C34?logo=styled-components&logoColor=CC6699" alt="Styled Components" title="Styled Components" height="25" />
-</div>
-<div>
-<img src="https://img.shields.io/badge/AzureDevops-282C34?logo=azuredevops&logoColor=007ACC" alt="Azure logo" title="Azure" height="25" />
+<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=42B883" alt="Vue.js logo" title="Vue.js" height="25" />
+<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=9A405B" alt="Vue.js logo" title="Vue.js" height="25" />
+<img src="https://img.shields.io/badge/Vuex-282C34?logo=vue.js&logoColor=42B883" alt="Vuex logo" title="Vuex" height="25" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" title="Tailwind CSS" height="25" />
+   
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/Gitlab-282C34?logo=gitlab&logoColor=61DAFB" alt="Gitlab logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor" alt="Python logo" title="Python" height="25" />
-<img src="https://img.shields.io/badge/docker-282C34?logo=docker&logoColor=61DAFB" alt="docker logo" title="git" height="25" />
+<img src="https://img.shields.io/badge/aws-282C34?logo=amazon&logoColor=EC912D" alt="Amazon logo" title="Amazon Web Services" height="25" />
+<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />
 </div>
 </div>
 <br>
@@ -25,9 +27,9 @@ I'm a 22 years old studant of Information Systems at the Federal University of S
 
 ## 🧠  Currently studying:
 <div>
-<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
-<img src="https://img.shields.io/badge/Cypress-282C34?logo=cypress&logoColor=FFFFFF" alt="Cypress logo" title="Cypress" height="25" />
+<img src="https://img.shields.io/badge/Nuxt-282C34?logo=nuxt.js&logoColor=42B883" alt="Nuxt logo" title="Nuxt.js" height="25" />
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=6AA05C" alt="Node logo" title="Next.js" height="25" />
+<img src="https://img.shields.io/badge/CSharp-282C34?logo=CSharp&logoColor=953DAC" alt="Node logo" title="Next.js" height="25" />
 </div>
 <br>
 <br>
