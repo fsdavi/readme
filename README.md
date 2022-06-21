@@ -15,7 +15,6 @@ I'm a 23 years old studant of Information Systems at the Federal University of S
 </div>
 <br>
 <br>
-<br>
 
 <hr>
 <p align="center">
