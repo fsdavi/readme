@@ -6,13 +6,6 @@ I'm a 23 years old studant of Information Systems at the Federal University of S
 <div>  
 </div>
 </div>
-
-## 🧠  Currently studying:
-<div>
-<img src="https://img.shields.io/badge/Next-282C34?logo=next.js&logoColor=FFFFFF" alt="Next logo" title="Next.js" height="25" />
-<img src="https://img.shields.io/badge/Go-282C34?logo=Go&logoColor=1FBED6" alt="Golang logo" title="Go" height="25" />
-<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />
-</div>
 <br>
 <br>
 
